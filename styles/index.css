@@ -1,0 +1,7 @@
+.container {
+  margin-top: 25px;
+  max-width: 100%;
+}
+#total-col {
+  float: right;
+}
